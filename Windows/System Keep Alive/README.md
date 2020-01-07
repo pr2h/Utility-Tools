@@ -1,0 +1,2 @@
+##################### System Keepalive (Windows) #####################
+<br><br>This script keeps your system "alive" by not letting it go to either sleep or lock mode<br>This is especially useful if you don't have the privilege to change the lock/ sleep settings in the computer<br><br><b>How to use System Keepalive (Windows)?</b><br>Enter the Start menu coordinates. Keep changing the value till you get the perfect fit. Once set, you can use it forever!<br><br><b>Command :</b>python system_keepalive_v2.py
